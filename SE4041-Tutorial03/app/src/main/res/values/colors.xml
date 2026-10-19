@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_600">#6842A6</color>
+    <color name="purple_700">#523286</color>
+    <color name="screen_background">#FCFAFF</color>
+    <!-- Background colours toggled by the "Change Background Color" button -->
+    <color name="color1">#FFE0B2</color>
+    <color name="color2">#C8E6C9</color>
+</resources>

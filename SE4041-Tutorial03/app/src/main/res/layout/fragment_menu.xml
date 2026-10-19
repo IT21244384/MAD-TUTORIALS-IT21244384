@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/screen_background"
+    android:orientation="horizontal"
+    android:padding="4dp">
+
+    <Button
+        android:id="@+id/btnWalking"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:backgroundTint="@color/purple_600"
+        android:text="@string/walking" />
+
+    <Button
+        android:id="@+id/btnCycling"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_weight="1"
+        android:backgroundTint="@color/purple_600"
+        android:text="@string/cycling" />
+
+    <Button
+        android:id="@+id/btnDriving"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_weight="1"
+        android:backgroundTint="@color/purple_600"
+        android:text="@string/driving" />
+</LinearLayout>

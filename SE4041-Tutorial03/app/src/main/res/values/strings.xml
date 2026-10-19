@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tutorial 04</string>
+    <string name="walking">Walking</string>
+    <string name="cycling">Cycling</string>
+    <string name="driving">Driving</string>
+    <string name="change_background_color">Change Background Color</string>
+    <string name="walking_description">Walking</string>
+    <string name="cycling_description">Cycling</string>
+    <string name="driving_description">Driving</string>
+</resources>
