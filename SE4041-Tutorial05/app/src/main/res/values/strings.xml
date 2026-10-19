@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sensors Tutorial</string>
+    <string name="accelerometer_placeholder">Accelerometer</string>
+    <string name="proximity_placeholder">Proximity</string>
+    <string name="light_placeholder">Light</string>
+    <string name="sensor_not_available">%1$s sensor not available on this device</string>
+</resources>

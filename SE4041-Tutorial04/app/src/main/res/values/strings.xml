@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Room Database</string>
+    <string name="add_record">Add Record</string>
+    <string name="view_record">View Record</string>
+    <string name="title_placeholder">TextView</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_dob">Enter Date of Birth</string>
+    <string name="insert">Insert</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="insert_record_title">Insert Record</string>
+    <string name="update_record_title">Update Record</string>
+    <string name="record_inserted">Record inserted</string>
+    <string name="record_updated">Record updated</string>
+    <string name="record_deleted">Record deleted</string>
+    <string name="name_required">Please enter a name</string>
+    <string name="save_failed">Could not save the record</string>
+</resources>
